@@ -1,0 +1,2 @@
+# airfare_prediction_and_classification
+A machine learning exercise presenting a simple model for (1) prediction of airfares from the data contained in the search query using linear support vector regression implementation sklearn.SVM.LinearSVR and (2) classification of flight itinerary search results by likelihood the returned fare will ultimately be purchased by the consumer, using simple Naive Bayes implementation in sklearn.
